@@ -1,6 +1,9 @@
+<div align="center">
+
 ![Linguagem-dax](https://github.com/Graziiele/Projeto/assets/114547875/94d5a50e-d303-4e0e-8f10-ce1d768081b4)
 
-
+</div>
+	
 ### Criação de algumas medidas dax
 
 1. [Número de vendas]: contagem de vendas distintas;
